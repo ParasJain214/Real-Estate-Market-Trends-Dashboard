@@ -1,3 +1,10 @@
+Real-Estate-Market-Trends-Dashboard/
+│
+├── Dashboard.pbix
+├── Real_Estate_Market_Trends_Sequential_Months.xlsx
+├── README.md
+├── dashboard.png
+└── LICENSE (optional)
 # Real Estate Market Trends Dashboard
 
 ## Project Overview
@@ -29,5 +36,4 @@ Real Estate Market Trends Dataset
 (Add dashboard screenshot here)
 
 ## Author
-
-Yash Jain
+Paras Jain
